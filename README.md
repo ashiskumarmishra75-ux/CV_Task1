@@ -48,4 +48,5 @@ Training metrics tracked:
 - Validation accuracy
 
 ##Final Results:
-  - Accuracy: 
+  - Accuracy: 0.8405
+  - Loss: 0.5648
